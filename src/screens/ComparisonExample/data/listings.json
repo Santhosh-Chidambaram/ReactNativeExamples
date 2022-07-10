@@ -1,0 +1,489 @@
+[
+    {
+      "_id": "62c296c10bfa2aba019da231",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "New Fully Furnished Flats For Sale",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-residential-buildings-picture-id1225226886?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Mirchi Houses",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 5680000, "end_price": 5680000 },
+        "size": "2580",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "5",
+        "flats_floor_no": "2",
+        "carpet_area": "250",
+        "wall_area": "350",
+        "balcony_utility_area": "150",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "North East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Cement Concrete Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Below ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank", "Borewell water"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "Bff see"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "62c296c10bfa2aba019da232",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "Gated Community Flats For Sale",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-white-apartment-buildings-in-a-new-housing-estate-picture-id870592454?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Ashvita Home Spaces",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 6500000, "end_price": 6500000 },
+        "size": "3520",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "5",
+        "flats_floor_no": "2",
+        "carpet_area": "180",
+        "wall_area": "380",
+        "balcony_utility_area": "180",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "North East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Cement Concrete Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Below ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank", "Borewell water"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "HMDA1345"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "62c296c10bfa2aba019da233",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "Best Selling Flats in HYD",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-white-apartment-buildings-in-a-new-housing-estate-picture-id870592454?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Ashvita Home Spaces",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 6500000, "end_price": 6500000 },
+        "size": "2580",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "3",
+        "flats_floor_no": "1",
+        "carpet_area": "250",
+        "wall_area": "350",
+        "balcony_utility_area": "150",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Black Top Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Above ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "HMDA1212"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "62c296c10bfa2aba019da234",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "Great Flats for Sale",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-residential-buildings-picture-id1225226886?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Mirchi Houses",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 5680000, "end_price": 5680000 },
+        "size": "2580",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "5",
+        "flats_floor_no": "2",
+        "carpet_area": "250",
+        "wall_area": "350",
+        "balcony_utility_area": "150",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "North East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Cement Concrete Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Below ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank", "Borewell water"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "Bff see"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "62c296c10bfa2aba019da235",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "Amazing New Fully Furnished Flats",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-white-apartment-buildings-in-a-new-housing-estate-picture-id870592454?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Ashvita Home Spaces",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 6500000, "end_price": 6500000 },
+        "size": "3520",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "5",
+        "flats_floor_no": "2",
+        "carpet_area": "180",
+        "wall_area": "380",
+        "balcony_utility_area": "180",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "North East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Cement Concrete Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Below ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank", "Borewell water"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "HMDA1345"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "62c296c10bfa2aba019da236",
+      "seller": "62c28b770bfa2aba019da223",
+      "title": "Gated Community Flats",
+      "listing_status": "active",
+      "completed_step": "PropertyPreview",
+      "deal_status": "unsold",
+      "category": "flat",
+      "photos": [
+        "https://media.istockphoto.com/photos/modern-white-apartment-buildings-in-a-new-housing-estate-picture-id870592454?s=612x612"
+      ],
+      "amenities": ["Gated community", "Restaurant"],
+      "property_details": {
+        "name": "Ashvita Home Spaces",
+        "description": "",
+        "development_status": "Completed",
+        "completion_date": "",
+        "listed_by": "Developer"
+      },
+      "address": {
+        "street": "HITEC City HUDA Techno Enclave",
+        "flat_or_suite": "",
+        "city": "Ranga Reddy",
+        "state": "Telangana",
+        "pincode": "500081",
+        "country": "India",
+        "formatted_address": "Plot # 4/2, Sector 1, Huda Techno Enclave, Hi-Tech City, Madhapur, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500081, India",
+        "location": {
+          "type": "Point",
+          "coordinates": [78.38504179999995, 17.44464619999999]
+        }
+      },
+      "pricing_and_measurements": {
+        "listing_unit_type": "single",
+        "total_price": { "start_price": 6500000, "end_price": 6500000 },
+        "size": "2580",
+        "sizes_range": [],
+        "size_unit": "Sq yd",
+        "no_of_floors": "3",
+        "flats_floor_no": "1",
+        "carpet_area": "250",
+        "wall_area": "350",
+        "balcony_utility_area": "150",
+        "common_area": "120",
+        "undivided_land_share": "100",
+        "facing": "East",
+        "balconies": 1,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "carparkings": 1
+      },
+      "property_features": {
+        "road_type": "Black Top Road",
+        "electricity_supply_lines": false,
+        "electricity_supply_type": "Above ground",
+        "street_lights": false,
+        "underground_drainage": false,
+        "water_supply": ["Overhead tank"]
+      },
+      "property_approvals": {
+        "approval_type": "HMDA",
+        "rera_compliant": false,
+        "rera_project_reg_no": "",
+        "rera_seller_reg_no": "",
+        "approval_entity_file_no": "HMDA1212"
+      },
+      "nearby_developments": [
+        {
+          "id": "E2Xt",
+          "name": "Hospital",
+          "formatted_address": "No. 86, Image Gardens Rd, VIP Hills, Jaihind Enclave, Madhapur, Telangana 500081, India",
+          "coordinates": [78.38590290996258, 17.44595442753744],
+          "distance": "0.5 km",
+          "time": "2 mins"
+        }
+      ],
+      "shared_with": { "contacts": [], "groups": [] },
+      "createdAt": "2022-07-04T07:29:05.982Z",
+      "updatedAt": "2022-07-04T07:29:05.982Z",
+      "__v": 0
+    }
+  ]
+  
